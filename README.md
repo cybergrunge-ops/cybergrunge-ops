@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cybergrunge-ops
+- 👀 I’m interested in cybergrunge
+- 🌱 I’m currently learning php, sql, web app dev
+- 💞️ I’m looking to collaborate on web app dev, art and music
+- 📫 How to reach me https://cybergrunge.net
